@@ -1,0 +1,4 @@
+Train Number,Type,Status,From Station,To Station,Scheduled Departure,Actual Departure,Scheduled Arrival,Actual Arrival,Last Updated
+12345,Express,On Time,Delhi,Mumbai,2024-12-03 10:00,2024-12-03 10:05,2024-12-03 22:00,-,2024-12-03 10:05
+67890,Local,Delayed,Mumbai,Pune,2024-12-03 11:30,2024-12-03 11:45,2024-12-03 14:30,-,2024-12-03 11:45
+11111,Express,Scheduled,Chennai,Bangalore,2024-12-03 13:00,-,2024-12-03 16:30,-,2024-12-03 09:00
